@@ -32,7 +32,7 @@ FLUX.1-dev by Black Forest Labs (via Hugging Face API)
 INSTALLATION & SETUP:
 
 Clone this repository:
-git clone https://github.com/your-username/coutureai.git
+git clone https://github.com/Abhi6816/Couture-Ai
 cd coutureai
 
 Install dependencies:
